@@ -1,2 +1,3 @@
-# Memestr
-A social media website
+SocialNetwork
+=============
+A social network.
